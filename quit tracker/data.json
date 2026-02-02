@@ -2,5 +2,9 @@
     "junk_food": {
         "last done": "2026-01-31",
         "longest streak": 0
+    },
+    "skipped_workout": {
+        "last done": "2026-01-31",
+        "longest streak": 0
     }
 }
