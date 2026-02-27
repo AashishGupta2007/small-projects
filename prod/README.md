@@ -27,7 +27,7 @@ real file tracking.
 
 Clone the repository:
 
-    git clone <your-repo-url>
+    git clone <repo-url>
     cd <repo-folder>
 
 No additional packages are required.
